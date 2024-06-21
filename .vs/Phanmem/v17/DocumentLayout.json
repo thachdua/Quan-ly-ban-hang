@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|c:\\users\\giap1\\downloads\\pbl3-coffee-management-vrjvwe\\pbl3-coffee-management-vrjvwe\\pbl3-coffee-management\\pbl3_quanlyquancafe\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\bll\\timekeepingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\bll\\timekeepingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\billform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\billform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\salaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\salaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\rptreceipt.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\rptreceipt.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fthemban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fthemban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fthemdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fthemdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fcapnhatdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fcapnhatdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fcapnhatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fcapnhatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dal\\foodcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dal\\foodcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\billform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\billform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dal\\billinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dal\\billinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dto\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dto\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\bll\\tablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\bll\\tablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\bll\\foodcategorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\bll\\foodcategorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\fnhanvien.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\fnhanvien.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\pbl3_quanlyquancafe\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|PBL3_QuanLyQuanCafe\\PhanMem.csproj|solutionrelative:pbl3_quanlyquancafe\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeKeepingBLL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\TimeKeepingBLL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BLL\\TimeKeepingBLL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\TimeKeepingBLL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BLL\\TimeKeepingBLL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:38:19.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\SalaryForm.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\SalaryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:06:09.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BillForm.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BillForm.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BillForm.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BillForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:38:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\ChartForm.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\ChartForm.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\ChartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:06:57.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalaryForm.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\SalaryForm.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\SalaryForm.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:55:01.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\ChartForm.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\ChartForm.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\ChartForm.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:30:13.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalaryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\SalaryForm.Designer.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\SalaryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\SalaryForm.Designer.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\SalaryForm.Designer.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAQwAsBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:56:53.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "receipt.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\receipt.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\receipt.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\receipt.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\receipt.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:56:55.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\receipt.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\receipt.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\receipt.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:01:01.578Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DAL\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DAL\\DataProvider.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAIA/wGYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:22:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rptReceipt.rdlc",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\rptReceipt.rdlc",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\rptReceipt.rdlc",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\rptReceipt.rdlc",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\rptReceipt.rdlc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-15T16:01:05.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\Account.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Account.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\Account.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:38:42.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fLogin.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fLogin.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fLogin.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:04:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "settlePayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\settlePayment.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\settlePayment.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\settlePayment.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\settlePayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:09:24.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fThemBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemBan.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fThemBan.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemBan.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fThemBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:57.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fThemDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemDanhMuc.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fThemDanhMuc.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemDanhMuc.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fThemDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fThemSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemSanPham.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fThemSanPham.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemSanPham.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fThemSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:06:00.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fSanPham.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fSanPham.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fSanPham.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:56.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fMain.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fMain.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fMain.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:55.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fDoiMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fDoiMK.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fDoiMK.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fDoiMK.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fDoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:53.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemNhanVien.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fThemNhanVien.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:28:54.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fDanhMuc.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fDanhMuc.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fDanhMuc.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FCapNhatSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\FCapNhatSanPham.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\FCapNhatSanPham.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\FCapNhatSanPham.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\FCapNhatSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:51.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fCapNhatDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fCapNhatDanhMuc.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fCapNhatDanhMuc.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fCapNhatDanhMuc.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fCapNhatDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:50.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fNhanVien.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fNhanVien.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fNhanVien.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:52:28.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fCapNhatBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fCapNhatBan.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fCapNhatBan.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fCapNhatBan.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fCapNhatBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FoodCategoryDAL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\FoodCategoryDAL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DAL\\FoodCategoryDAL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\FoodCategoryDAL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DAL\\FoodCategoryDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:05:02.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBan.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fBan.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBan.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:07:00.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBanHang.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fBanHang.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBanHang.cs [Design]",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:17:27.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Food.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\Food.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Food.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\Food.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:37:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\BillInfo.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\BillInfo.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\BillInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:37:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fLogin.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fLogin.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fLogin.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fLogin.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAANkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:28:03.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BillForm.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BillForm.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BillForm.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BillForm.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BillForm.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA3wHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:45:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BillInfoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\BillInfoDAL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DAL\\BillInfoDAL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\BillInfoDAL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DAL\\BillInfoDAL.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:23:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Menu.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\Menu.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Menu.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\Menu.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:38:06.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Table.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\Table.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\Table.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\Table.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:38:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BillDAL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\BillDAL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DAL\\BillDAL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\BillDAL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DAL\\BillDAL.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:04:47.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "fBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBanHang.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fBanHang.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBanHang.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fBanHang.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwLUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:17:53.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "fBan.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBan.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fBan.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fBan.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fBan.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:07:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\HoaDon.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\HoaDon.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\HoaDon.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:38:03.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DTO\\FoodCategory.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DTO\\FoodCategory.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DTO\\FoodCategory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:38:01.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "fNhanVien.resx",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fNhanVien.resx",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fNhanVien.resx",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fNhanVien.resx",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fNhanVien.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-15T14:52:33.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TableBLL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\TableBLL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BLL\\TableBLL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\TableBLL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BLL\\TableBLL.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:38:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FoodDAL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\FoodDAL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DAL\\FoodDAL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\FoodDAL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DAL\\FoodDAL.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAkwNEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:38:02.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FoodCategoryBLL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\FoodCategoryBLL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BLL\\FoodCategoryBLL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\FoodCategoryBLL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BLL\\FoodCategoryBLL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:00:20.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BLL\\HoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BLL\\HoaDonBLL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:19:22.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DAL\\AccountDAL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DAL\\AccountDAL.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:07:38.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "fNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fNhanVien.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\fNhanVien.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\fNhanVien.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\fNhanVien.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwGcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:52:42.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccountBLL.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\AccountBLL.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\BLL\\AccountBLL.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\BLL\\AccountBLL.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\BLL\\AccountBLL.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:07:25.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\Program.cs",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\Program.cs",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:55:02.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\App.config",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\App.config",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\App.config",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-10T14:11:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "PBL3_QuanLyQuanCafe\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\giap1\\Downloads\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management-vrjvwe\\PBL3-coffee-management\\PBL3_QuanLyQuanCafe\\DataSet1.xsd",
+              "RelativeToolTip": "PBL3_QuanLyQuanCafe\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-10T11:59:33.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
