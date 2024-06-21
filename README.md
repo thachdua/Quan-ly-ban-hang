@@ -1,0 +1,3 @@
+- Phần mềm Quản lý bán hàng
+- C# Winform
+- Contact : huynhkhoinguyen2004@gmail.com
